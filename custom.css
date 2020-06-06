@@ -22,9 +22,7 @@ html{
 .bdr{
     border: 5px double rgba(43, 2, 43, 0.5);
 border-radius: 40px;
-padding: 40px;
-    margin-left: 30px !important;
-margin-right: 30px !important;
+
 }
 
 .btn-purple {
