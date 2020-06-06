@@ -1,0 +1,109 @@
+*{
+    font-family: 'Source Serif Pro', serif !important;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+.bg-purple{
+    background-color: rgb(43, 2, 43);
+
+}
+
+
+.bg{
+    background-color: rgb(41, 37, 37,0.1);
+    border-radius: 100px;
+    padding: 20px;
+}
+
+.bdr{
+    border: 5px double rgba(43, 2, 43, 0.5);
+border-radius: 40px;
+padding: 40px;
+}
+
+.btn-purple {
+    background-color: rgb(43, 2, 43) !important;    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    /* height: 100px; */
+    bottom: 0;
+    width: 100%;
+}
+
+body{
+background-color: rgba(88, 72, 86, 0.2) !important;
+}
+
+.form-in{
+    width: 40% !important;
+    margin-left: 30% !important;
+}
+
+.form-in1{
+    width: 50% !important;
+    margin-left: 25% !important;
+}
+
+form img{
+    border-radius: 20px;
+}
+
+.round-10{
+    border-radius: 10px;
+}
+
+.font{
+    font-size: 25px;
+}
+
+.font1{
+    font-size: 20px !important;
+}
+
+.font-color{
+    color: rgb(43, 2, 43);    
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+.fc{
+    color: rgb(43, 2, 43) !important;
+}
+
+.bg-imgs{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+@media screen and (max-width: 580px) {
+  
+  .font-car{
+      font-size: 10px !important;
+      padding: 3px !important;
+      margin-bottom: 0px !important;
+      margin-left: 0px !important;
+      margin-right: 0px !important;
+      left: 1px !important;
+      right: 1px !important;
+      bottom: 1px !important;
+  }
+
+  .btn-ch{
+      padding: 2px !important;
+      font-size: 5px !important;
+      margin: 0px !important;
+  }
+}
