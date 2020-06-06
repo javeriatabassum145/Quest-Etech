@@ -88,7 +88,7 @@ form img{
     background-size: cover;
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 800px) {
   
   .font-car{
       font-size: 10px !important;
@@ -105,5 +105,9 @@ form img{
       padding: 2px !important;
       font-size: 5px !important;
       margin: 0px !important;
+  }
+  
+  .f-res{
+    font-size: 10rem !important;
   }
 }
