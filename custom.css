@@ -19,11 +19,6 @@ html{
     padding: 10px;
 }
 
-.bdr{
-    border: 5px double rgba(43, 2, 43, 0.5);
-border-radius: 40px;
-
-}
 
 .btn-purple {
     background-color: rgb(43, 2, 43) !important;    
@@ -109,9 +104,9 @@ form img{
   
 }
   .f-res{
-      font-size: 40px !important;
+      font-size: 30px !important;
   }
 
   .f-res1{
-      font-size: 40px !important;
+      font-size: 20px !important;
   }
