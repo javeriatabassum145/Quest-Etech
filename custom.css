@@ -52,8 +52,8 @@ background-color: rgba(88, 72, 86, 0.2) !important;
 }
 
 .form-in1{
-    width: 50% !important;
-    margin-left: 25% !important;
+    width: 60% !important;
+    margin-left: 20% !important;
 }
 
 form img{
@@ -116,3 +116,8 @@ form img{
   .f-res1{
       font-size: 10px !important;
   }
+
+.form-in1{
+    width: 90% !important;
+    margin-left: 0px !important;
+}
