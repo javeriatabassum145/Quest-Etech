@@ -115,6 +115,8 @@ form img{
     width: 90% !important;
     margin-left: 10px !important;
 }
-.p-t{
-    padding-top:0px !important;
+
+.bdr{
+    padding: 15px !important;
+    }
 }
