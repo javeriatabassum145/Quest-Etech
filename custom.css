@@ -12,6 +12,13 @@ html{
 
 }
 
+.bdr{
+    
+      border: 1px solid;
+  padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
 
 .bg{
     background-color: rgb(41, 37, 37,0.1);
